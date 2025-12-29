@@ -49,8 +49,8 @@ Assets/
 ├── _3DModels/          
 ├── _Audio/             # Sound effects and music
 ├── _UISprites/         # UI Assets
-├── _ExternalAssets/    # For any online assets (e.g., from unity asset store) can be moved into this folder for a clean folder structure
-│   └── ASSETNAME/      # Breif intro this asset
+├── _ExternalAssets/    # Any external assets (e.g., from the Unity Asset Store) can be moved into this folder for a clean structure
+│   └── ASSETNAME/      # Brief intro this asset
 └── ...                 # Other folders (if applicable)
 ```
 
